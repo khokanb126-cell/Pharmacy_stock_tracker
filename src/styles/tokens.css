@@ -1,0 +1,22 @@
+:root {
+  --bone: #f2eee1;
+  --parchment: #e9e1cd;
+  --card: #faf7ec;
+  --ink: #15211d;
+  --pine: #1e3a33;
+  --moss: #2d5a4c;
+  --apothecary: #0e7c5b;
+  --apothecary-deep: #0a5c44;
+  --amber: #b7791f;
+  --amber-wash: #f6e3b4;
+  --blood: #b3372b;
+  --blood-wash: #f3c9c2;
+  --mint-wash: #cfe6d8;
+  --line: rgba(21, 33, 29, 0.14);
+  --line-strong: rgba(21, 33, 29, 0.28);
+  --shadow: 0 18px 40px rgba(21, 33, 29, 0.14);
+  --radius: 18px;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-ui: 'Space Grotesk', Verdana, sans-serif;
+  --font-mono: 'IBM Plex Mono', Menlo, monospace;
+}
